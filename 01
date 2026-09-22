@@ -1,0 +1,8 @@
+GitHub
+└── developer-agent
+    ├── main.py
+    ├── notes/
+    │   └── today.md
+    ├── output/
+    │   └── progress.md
+    └── README.md
